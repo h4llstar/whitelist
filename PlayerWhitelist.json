@@ -1,0 +1,22 @@
+{
+	"WhitelistedUsers": [
+		{
+			"hash": "e23f03647a5efab0e7aad9d46c2fa49ad085d3bbd463fac6858cc5b367da8f4e",
+			"attackable": false,
+			"level": 900,
+			"tags": [
+				{
+					"text": "Hawk Tuah",
+					"color": [ 255, 255, 255 ]
+				}
+			]
+		},
+	],
+	"BlacklistedUsers": [],
+	"Announcement": {
+		"text": "",
+		"expiretime": 0,
+		"targets": "all"
+	},
+	"KillVape": false
+}
